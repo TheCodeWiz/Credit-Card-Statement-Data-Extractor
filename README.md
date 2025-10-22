@@ -93,8 +93,8 @@ Please file issues for bugs or new ideas.
 
 ## 📬 Contact
 
-Built by Manav Bhatt
-Questions? Reach out via [LinkedIn](https://www.linkedin.com/in/manav-bhatt1409/) or [Twitter](https://x.com/ManavBhatt_1409).
+- Built by Manav Bhatt.
+- Questions? Reach out via [LinkedIn](https://www.linkedin.com/in/manav-bhatt1409/) or [Twitter](https://x.com/ManavBhatt_1409).
 
 ---
 
