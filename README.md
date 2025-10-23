@@ -66,6 +66,24 @@ python -m streamlit run app.py
 
 ---
 
+
+## 🖼️ Application Preview
+
+**Main Dashboard**
+
+![Main dashboard preview](image1.jpg)
+
+**Table with statement fields**
+
+![Statement Table preview](image2.jpg)
+![Statement Table preview](image3.jpg)
+
+**Transaction results and analytics**
+
+![Transactions Table and Analytics](image4.jpg)
+
+---
+
 ## 🏆 Why Use This App?
 - **Perfect for tracking expenses, tax time, or account audits.**
 - **Removes the hassle of manual transcription.**
